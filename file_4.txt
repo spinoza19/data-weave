@@ -1,4 +1,0 @@
-# data-weave
-Commit 5
-Date: 2024-10-10T09:30:09Z
-Update dependencies
