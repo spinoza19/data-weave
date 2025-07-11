@@ -1,4 +1,0 @@
-# data-weave
-Commit 7
-Date: 2025-06-13T11:08:24Z
-Improve error handling
